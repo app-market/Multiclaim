@@ -28,6 +28,17 @@ echo $c'Channel Youtube '$re':'$g' Jejaka Kampret'
 echo $c'Team            '$re':'$g' KadalCyber'
 sleep 1
 echo $k'Ini adalah Tools Untuk Membuat Allkey\n\n'
+echo "list Faucet"
+echo "http://deadsats.com/autofaucet?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "https://rocketfaucet.win/index.php?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "http://www.dogecoinfloodgate.ml/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "https://coinclaimers.com/index.php?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "http://www.autostickydoge.tk/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "https://faucet.dutchycorp.space/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "https://dutchy-earn.000webhostapp.com/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "https://dutchyfaucet.000webhostapp.com/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "http://dogeauto.100count.net/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
+echo "http://autocoins.xyz/?r=DJG4YG3ARUkSt9e5xvHvSS3faVx3v1HM9p&rc=DOGE"
 touch allkey.txt
 sleep 2
 ulang0='y'
